@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2013
-
-## Equipo docente
-
-- **Clases teóricas:** Ursula Molter
-- **Clases prácticas:** Santiago Saglietti, Julian Eisenschlos
+# Análisis Real — Primer cuatrimestre de 2013
 
 ## Prácticas
 
@@ -20,7 +15,7 @@
 
 ## Otros materiales
 
-- [aquí](parcial-adicionales.pdf)
+- [parcial-adicionales.pdf](parcial-adicionales.pdf)
 
 ## Página original
 
